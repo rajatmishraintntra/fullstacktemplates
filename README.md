@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# fullstacktemplates
-=======
+
 # fullstacktemplates
 
 git clone https://github.com/rajatmishraintntra/fullstacktemplates.git
@@ -22,7 +20,7 @@ edit react code
 
 and whenever you want to see that with django 
 
-just run yarn build
+just run yarn && yarn build
 
 edit .env file for env vars like baseurl etc.
->>>>>>> origin/master
+for React env vars should starts with REACT_APP_+VARS
